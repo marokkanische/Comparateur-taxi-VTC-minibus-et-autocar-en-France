@@ -1,0 +1,9 @@
+.home-hero {
+    background: url('https://source.unsplash.com/vowZFVPFzK0/1920x1080');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
